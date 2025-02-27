@@ -1,5 +1,5 @@
 # Spam Detection using Machine Learning
-
+(Developing Stage)
 This project is an SMS/Email spam classifier built using **Natural Language Processing (NLP)** and **Machine Learning (ML)**. The model is trained using **TF-IDF vectorization** and a **Naïve Bayes classifier** to classify messages as **Spam** or **Not Spam**.
 
 ## Features
